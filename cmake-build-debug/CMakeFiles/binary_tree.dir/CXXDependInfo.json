@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/zeros/CLionProjects/binary_tree/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/zeros/CLionProjects/binary_tree",
+	"dir-top-bld" : "C:/Users/zeros/CLionProjects/binary_tree/cmake-build-debug",
+	"dir-top-src" : "C:/Users/zeros/CLionProjects/binary_tree",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/zeros/CLionProjects/binary_tree/cmake-build-debug/CMakeFiles/binary_tree.dir"
+}
